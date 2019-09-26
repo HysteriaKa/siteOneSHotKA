@@ -1,0 +1,22 @@
+h1{
+    color:rgb(76, 10, 230);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-family: "time new roman", 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+body{
+    background-color:rgb(8, 2, 17);
+    color:white;
+
+}
+h2{
+    color: rgb(196, 13, 119)
+
+}
+article{
+    width: 80%;
+    
+}
