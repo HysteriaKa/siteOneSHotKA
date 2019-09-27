@@ -1,0 +1,8 @@
+body{/* modif : couleur du fond - police - taille police*/
+background-color: #fff;
+font-family: serif;
+font-size : 15pt;
+}
+aside{
+    display: none;
+}
